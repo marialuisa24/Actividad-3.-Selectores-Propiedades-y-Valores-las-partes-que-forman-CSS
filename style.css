@@ -1,29 +1,29 @@
-/* Establece el color azul para el título principal */
+
 h1 {
 	color: blue;
 }
 
-/* Establece el tamaño de fuente de 20px para todos los párrafos */
+
 p {
 	font-size: 20px;
 }
 
-/* Añade un borde rojo de 5 píxeles alrededor de la imagen */
+
 img {
 	border: 5px solid red;
 }
 
-/* Quita la decoración debajo de todos los enlaces */
+
 a {
 	text-decoration: none;
 }
 
-/* Establece el fondo amarillo para todos los elementos con la clase "destacado" */
+
 .destacado {
 	background-color: yellow;
 }
 
-/* Establece el estilo en negrita para el elemento con el id de "titulo" */
+
 #titulo {
 	font-weight: bold;
 }

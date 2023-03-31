@@ -1,0 +1,22 @@
+body {
+	background-color: #f894ba;
+	font-size: 16px;
+}
+
+h1 {
+	font-size: 30px;
+}
+
+p {
+	font-size: 24px;
+}
+
+.destacado {
+    font-size: 18px;
+	color: red;
+}
+
+.contenedor {
+	font-size: 20px;
+}
+
